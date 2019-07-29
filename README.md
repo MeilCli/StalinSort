@@ -1,5 +1,5 @@
 # スターリンソート
-元ネタ
+TLで見つけたツイート
 
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">ソートされていない要素を粛清することでO(N)でソートできるスターリンソートとかいうのを見て爆笑してる</p>&mdash; やんぎん (@4116You) <a href="https://twitter.com/4116You/status/1155619860027547648?ref_src=twsrc%5Etfw">July 28, 2019</a></blockquote>
 
